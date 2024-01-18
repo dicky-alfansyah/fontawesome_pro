@@ -17,7 +17,6 @@
     <li>Updated some brand icons that were accidentally marked as Pro-only</li>
 </ul>
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 
 
