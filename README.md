@@ -11,5 +11,6 @@
 <p>- Updated some brand icons that were accidentally marked as Pro-only</p>
 
 <p>Use a Kit :</p>
+
 ```html
 <link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
