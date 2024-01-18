@@ -17,22 +17,39 @@
     <li>Updated some brand icons that were accidentally marked as Pro-only</li>
 </ul>
 
-# My Awesome Project
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Awesome Example</title>
+    <!-- Include Font Awesome CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha384-rRE5m+/2eWU7j2z1Nn3HJMzJ38rYVbM+gJ5P5I3gPzI67aUdj2JUqN3iWiZQquXw" crossorigin="anonymous">
+</head>
+<body>
 
-Welcome to my awesome project! Here's a coffee icon: <i class="fas fa-coffee"></i>
+    <!-- Example Usage of Font Awesome Icons -->
+    <h1>Font Awesome Icons</h1>
 
-## Features
+    <!-- Using Solid Style Icons -->
+    <i class="fas fa-heart"></i> Solid Heart Icon
+    <br>
+    <i class="fas fa-star"></i> Solid Star Icon
+    <br>
 
-- <i class="fas fa-check"></i> Feature 1
-- <i class="fas fa-check"></i> Feature 2
-- <i class="fas fa-check"></i> Feature 3
+    <!-- Using Regular Style Icons -->
+    <i class="far fa-heart"></i> Regular Heart Icon
+    <br>
+    <i class="far fa-star"></i> Regular Star Icon
+    <br>
 
-## Installation
+    <!-- Using Brands Style Icons -->
+    <i class="fab fa-github"></i> GitHub Icon
+    <br>
+    <i class="fab fa-twitter"></i> Twitter Icon
 
-To get started, follow these steps:
+</body>
+</html>
 
-1. <i class="fas fa-code"></i> Clone this repository.
-2. <i class="fas fa-cogs"></i> Configure the settings.
-3. <i class="fas fa-play"></i> Run the application.
 
 
