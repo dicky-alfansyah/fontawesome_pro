@@ -6,16 +6,13 @@
 ```html
 <link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
 ```
-<h3>Changelog</h3>
+<h1>Changelog</h1>
 <p> Released November 30, 2023 </p>
 
-<h4>Changed</h4>
+<h3>Changed</h3>
 <p>Updated the reddit, reddit-alien, and square-reddit brand icons</p>
-<h4>Fixed</h4>
-<p>- Corrected file-pdf reading "PNG"</p>
-<p>- Updated some brand icons that were accidentally marked as Pro-only</p>
+<h3>Fixed</h3>
 <ul>
-    <li>Apel</li>
-    <li>Pisang</li>
-    <li>Jeruk</li>
+    <li>Corrected file-pdf reading "PNG"</li>
+    <li>Updated some brand icons that were accidentally marked as Pro-only</li>
 </ul>
