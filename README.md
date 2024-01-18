@@ -14,3 +14,8 @@
 <h4>Fixed</h4>
 <p>- Corrected file-pdf reading "PNG"</p>
 <p>- Updated some brand icons that were accidentally marked as Pro-only</p>
+<ul>
+    <li>Apel</li>
+    <li>Pisang</li>
+    <li>Jeruk</li>
+</ul>
