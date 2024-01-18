@@ -17,8 +17,8 @@
     <li>Updated some brand icons that were accidentally marked as Pro-only</li>
 </ul>
 
-- Ikon hati: :heart: (kode: `:heart:`)
-- Ikon bintang: :star: (kode: `:star:`)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 
 
