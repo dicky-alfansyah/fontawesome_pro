@@ -1,4 +1,6 @@
-# Font Awesome Pro v6.5.1
+# Font Awesome Pro
+## 6.5.1 For The Web
+<p> Released: November 2023 </p>
 
 ```html
 <link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
