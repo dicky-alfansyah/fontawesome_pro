@@ -5,7 +5,7 @@
 
 ```html
 <link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
-
+```
 <h3>Changelog</h3>
 <p> Released November 30, 2023 </p>
 
