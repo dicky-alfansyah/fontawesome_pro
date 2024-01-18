@@ -1,12 +1,12 @@
 # Font Awesome Pro
 ## 6.5.1 For The Web
 
-<h5>Changelog</h5>
+<h3>Changelog</h3>
 <p> Released: November 2023 </p>
 
-<h6>Changed</h6>
+<h4>Changed</h4>
 <p>Updated the reddit, reddit-alien, and square-reddit brand icons</p>
-<h6>Fixed</h6>
+<h4>Fixed</h4>
 <p>- Corrected file-pdf reading "PNG"</p>
 <p>- Updated some brand icons that were accidentally marked as Pro-only</p>
 
