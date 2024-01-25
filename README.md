@@ -9,7 +9,7 @@
 
 **or :**
 ```bash
-npm i myfontawesome-pro  
+npm i myfontawesome-pro@6.5.1  
 ```
 
 **Example :**
