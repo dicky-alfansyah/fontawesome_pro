@@ -1,5 +1,5 @@
 # Font Awesome Pro
-## 6.5.1 For The Web
+## v6.5.1 For The Web
 
 **Use a Kit :**
 
