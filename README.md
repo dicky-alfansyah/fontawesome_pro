@@ -8,10 +8,13 @@
 ```
 
 **or :**
-
-`$ npm i myfontawesome-pro`
+```bash
+npm i myfontawesome-pro  
+```
 
 **Example :**
+
+`<link>` : <https://example-fontawesome.pages.dev>
 
 ```html
 <!DOCTYPE html>
