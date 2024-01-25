@@ -39,5 +39,5 @@ Released November 30, 2023
 Updated the reddit, reddit-alien, and square-reddit brand icons
 
 ### Fixed
-- Corrected file-pdf reading "PNG";
-- Updated some brand icons that were accidentally marked as Pro-only;
+- Corrected file-pdf reading "PNG"
+- Updated some brand icons that were accidentally marked as Pro-only
