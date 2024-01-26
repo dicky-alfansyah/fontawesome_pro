@@ -4,12 +4,12 @@
 **Use a Kit :**
 
 ```html
-<link href="https://unpkg.com/myfontawesome-pro@6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
+<link href="https://unpkg.com/myfontawesome-pro-web@6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
 ```
 
 **or :**
 ```bash
-npm i myfontawesome-pro@6.5.1  
+npm i myfontawesome-pro-web@6.5.1 
 ```
 
 **Example :**
@@ -23,7 +23,7 @@ npm i myfontawesome-pro@6.5.1
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Example</title>
-    <link href="https://unpkg.com/myfontawesome-pro@6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
+    <link href="https://unpkg.com/myfontawesome-pro-web@6.5.1/css/all.min.css" rel="stylesheet"  crossorigin="anonymous">
     <style>
         .fa-duotone.fa-puzzle {
             font-size: 100px;
