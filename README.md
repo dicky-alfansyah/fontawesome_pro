@@ -1,15 +1,15 @@
 # Font Awesome Pro
-## v6.5.1 For The Web
+## v6.5.2 For The Web
 
 **Use a Kit :**
 
 ```html
-<link href="https://unpkg.com/myfontawesome-pro-web@6.5.1/css/all.min.css" rel="stylesheet" integrity="sha512-pGs/JtQaZNIs/8IpfrEJ+pKuGpY/Y+BdlkSaPTGX0Qbg7JwcwcTAlSTk9YaYVocdstqwjssJDkmUTZYtSK1hHw==" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.2/css/all.min.css" rel="stylesheet" crossorigin="anonymous">
 ```
 
 **or :**
 ```bash
-npm i myfontawesome-pro-web@6.5.1 
+npm i myfontawesome-pro-web@6.5.2 
 ```
 
 **Example :**
@@ -23,7 +23,7 @@ npm i myfontawesome-pro-web@6.5.1
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Example</title>
-    <link href="https://unpkg.com/myfontawesome-pro-web@6.5.1/css/all.min.css" rel="stylesheet" integrity="sha512-pGs/JtQaZNIs/8IpfrEJ+pKuGpY/Y+BdlkSaPTGX0Qbg7JwcwcTAlSTk9YaYVocdstqwjssJDkmUTZYtSK1hHw==" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/gh/dicky-alfansyah/fontawesome_pro@main/6.5.2/css/all.min.css" rel="stylesheet" crossorigin="anonymous">
     <style>
         .fa-duotone.fa-puzzle {
             font-size: 100px;
@@ -35,12 +35,29 @@ npm i myfontawesome-pro-web@6.5.1
 </body>
 </html>
 ```
-## Changelog
-Released November 30, 2023
+## Changelog v6.5.2 For The Web
+Released April 1, 2024
 
-####  Changed
-Updated the reddit, reddit-alien, and square-reddit brand icons
+###  Added
+- Crowned our new Web Awesome brand icon
+- Waved our new Font Awesome brand icon
+- Finally added the new Bluesky brand icon
+- Added a new commissioned JXL for Jira brand icon
+- A batch of new icons, including: caduceus, gluten-free, and reflect-both icons
+- Signaled a new circle-wifi and commissioned circle-wifi-group icons
+- New commissioned file-cad, ant, and baby bottle icons
+- Locked in some table-related icons, including: table-cells-lock, table-cells-column-lock, and table-cells-row-lock
+  
+###  Changed
+- Updated the Kickstarter brand icon
+- Updated the Upwork brand icon
 
 ### Fixed
-- Corrected file-pdf reading "PNG"
-- Updated some brand icons that were accidentally marked as Pro-only
+- Fixed an issue where calendar-lines in Sharp Regular wasn't actually sharp
+- Fixed the duotone styling of printer, fax, and shredder
+- Fixed spacing in the location-check icon
+- Fixed an issue with the SVG of face-kiss-beam
+- Filled in some missing icons in the arrow-to/from-bracket icon series
+- Update the TypeScript definition for Library.add() to allow an array of icon defintions
+- Animation CSS custom property --fa-rotate-by now has a correct default value of 0
+- Fixed some Less variable issues with --fa-bounce
